@@ -20,5 +20,5 @@ openpyxl==3.0.10
 markdown-it-py==3.0.0 
 pygments==2.19.1 
 rich==13.9.4 
-altair==5.0.0
+
 
